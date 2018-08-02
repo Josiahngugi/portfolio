@@ -1,6 +1,7 @@
 # Josiah Maina's Portfolio
 
 Here is ,Josiah maina Ngugi portfolio.Give a brief infortion about him, his skills and the projects already have done.
+https://cdn3.iconfinder.com/data/icons/toolbar-people/512/user_man_male_profile_account_person_people-512.png
 
 ## Getting Started
 
