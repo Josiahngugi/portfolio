@@ -60,7 +60,7 @@ atom V 1.23.5
 
 ## Authors
 
-* **Josiah Maina Ngugi** - *Initial work* - [PurpleBooth](https://github.com/Josiahngugi)
+* **Josiah Maina Ngugi** - *Initial work* - [alfartech](https://github.com/Josiahngugi)
 
 ## License
 @ Alfar Technologies Limited 
