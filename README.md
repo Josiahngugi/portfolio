@@ -1,7 +1,6 @@
 # Josiah Maina's Portfolio
-
-Here is ,Josiah maina Ngugi portfolio.Give a brief infortion about him, his skills and the projects already have done.
 <a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+Here is ,Josiah maina Ngugi portfolio.Give a brief infortion about him, his skills and the projects already have done.
 ## Getting Started
 
 This project comprises of all information about Josiah Maina Ngugi.It is a simple website and easy it to follow.
