@@ -10,3 +10,11 @@
 }
 
 /*menu*/
+/*clearfix*/
+.clear-fix{
+  padding: 5px;
+}
+.links a{
+  color: red;
+  font-size: 115%;
+}
