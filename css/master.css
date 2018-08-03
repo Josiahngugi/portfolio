@@ -1,0 +1,11 @@
+/*header*/
+.header{
+  height: 65vh;
+  font-family: fantasy;
+  color: #fcfcfc;
+  /*background-color: rgba(56, 75, 160,0.5);*/
+  background-image: url(../img/rsz_font.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
